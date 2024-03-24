@@ -1,10 +1,6 @@
-### Hello,  I am Israel Vieira 🐧🐧
+#  Hi,  I'm Israel Vieira 👋
 
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-dias-vieira/)
-
-
-
-# About me
+## 🐧🐧 About Me
 
 I have extended professional experience in IT infrastructure, server and network management and DevOps skills. I am proactive and enjoy being constantly evolving.
 
@@ -100,3 +96,5 @@ July 2014 - November 2015
 - Fundamentals of Ethical Hacking - Udemy
 - Introduction to Cybersecurity Tools & Cyber Attacks - IBM
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-dias-vieira/)
