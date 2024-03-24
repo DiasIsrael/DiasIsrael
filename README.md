@@ -4,11 +4,6 @@
 
 I have extended professional experience in IT infrastructure, server and network management and DevOps skills. I am proactive and enjoy being constantly evolving.
 
-
-
-
-👩‍💻 I'm currently working on IT company
-
 🧠 I'm currently learning about Kubernetes and Containers
 
 👯‍♀️ I'm looking to collaborate on  IaC projects
